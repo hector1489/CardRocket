@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './cards.component.html',
-  styleUrl: './cards.component.css'
+  styleUrl: './cards.component.scss'
 })
 export class CardsComponent {
 
